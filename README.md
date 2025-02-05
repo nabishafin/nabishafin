@@ -1,9 +1,11 @@
-<div align="center" width="50">
+<div width="50">
   <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
   <br />
-  <a href="https://github.com/sp-xd">
+  <div  align="center">
+    <a href="https://github.com/sp-xd">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
   </a>
+  </div>
   <br />
   <hr />
 
