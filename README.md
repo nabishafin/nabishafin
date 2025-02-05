@@ -42,8 +42,7 @@
 - :rocket: Exploring React.js and Tailwind CSS  
 - :hourglass_flowing_sand: Focused on Web Performance Optimization for faster, better apps  
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation  
-- :dart: Life Hack: "Design with precision and code with passion"  
-- :trophy: Grand Finalist of Smart India Hackathon 2019 – Software Edition  
+- :dart: Life Hack: "Design with precision and code with passion"    
 - :zap: Fun fact: I love attending Meetups for learning & Conferences for Networking
 
 ---
