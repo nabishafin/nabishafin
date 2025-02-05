@@ -33,15 +33,20 @@
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-:computer: Frontend Developer, passionate about creating seamless user experiences
-:rocket: Exploring React.js, Vue.js, and Tailwind CSS
-:hourglass_flowing_sand: Focused on Web Performance Optimization for faster, better apps
-:man_technologist: Former Project Lead Intern at GirlScript Foundation
-:dart: Life Hack: "Design with precision and code with passion"
-:trophy: Grand Finalist of Smart India Hackathon 2019 – Software Edition
-:zap: Fun fact: I love attending Meetups for learning & Conferences for Networking
+👨🏻‍💻 **About Me:**
+
+- :computer: Frontend Developer, passionate about creating seamless user experiences  
+- :rocket: Exploring React.js and Tailwind CSS  
+- :hourglass_flowing_sand: Focused on Web Performance Optimization for faster, better apps  
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation  
+- :dart: Life Hack: "Design with precision and code with passion"  
+- :trophy: Grand Finalist of Smart India Hackathon 2019 – Software Edition  
+- :zap: Fun fact: I love attending Meetups for learning & Conferences for Networking
+
+---
+
+This layout should make the content clearer and more engaging. Let me know if you'd like to tweak anything further!
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
