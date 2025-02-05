@@ -1,5 +1,5 @@
 <div width="50">
-  <img src="https://i.ibb.co/com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
+  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
  <br />
 <div align="center">
   <a href="https://github.com/nabishafin">
