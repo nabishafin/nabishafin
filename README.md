@@ -1,14 +1,14 @@
 <div width="50">
   <img src="https://i.ibb.co/com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
-  <br />
-  <div  align="center">
-    <a href="https://github.com/nabishafin">
-      <img src="https://github.com/nabishafin/nabishafin/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
-    </a>
-  </div>
-  <br />
-  <hr />
-  
+ <br />
+<div align="center">
+  <a href="https://github.com/nabishafin">
+    <img src="https://github.com/nabishafin/nabishafin/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+  </a>
+</div>
+<br />
+<hr />
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
