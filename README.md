@@ -1,5 +1,5 @@
 <div align="center" width="50">
-  <img src="https://i.ibb.co/TSXT7Fr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="banner" width="50%" />
+  <img src="https://i.ibb.co/TSXT7Fr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="banner" width="" />
   <br />
   <a href="https://github.com/sp-xd">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
