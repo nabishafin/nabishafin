@@ -35,14 +35,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-💻 Frontend Developer | Passionate about Building Interactive UIs
-🚀 Exploring React.js, Vue.js & Tailwind CSS
-⏳ Always experimenting with Web Performance Optimization
-👨‍💻 Former Project Lead Intern at GirlScript Foundation
-🎯 Life Hack: "Design with precision and code with passion!"
-🏆 Conquered Smart India Hackathon 2019 – Software Edition (Grand Finalist)
-⚡ Fun fact: I love attending Meetups for learning & Conferences for Networking
-
+:computer: Frontend Developer, passionate about creating seamless user experiences
+:rocket: Exploring React.js, Vue.js, and Tailwind CSS
+:hourglass_flowing_sand: Focused on Web Performance Optimization for faster, better apps
+:man_technologist: Former Project Lead Intern at GirlScript Foundation
+:dart: Life Hack: "Design with precision and code with passion"
+:trophy: Grand Finalist of Smart India Hackathon 2019 – Software Edition
+:zap: Fun fact: I love attending Meetups for learning & Conferences for Networking
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
