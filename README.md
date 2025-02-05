@@ -2,8 +2,8 @@
   <img src="https://i.ibb.co/com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
   <br />
   <div  align="center">
-    <a href="https://github.com/your-username">
-      <img src="https://github.com/your-username/your-username/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+    <a href="https://github.com/nabishafin">
+      <img src="https://github.com/nabishafin/nabishafin/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
     </a>
   </div>
   <br />
@@ -80,9 +80,9 @@
 
 ## 𝗥𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabishafin&show_icons=true&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabishafin&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabishafin&layout=compact&theme=dracula)
 
 ---
 
@@ -92,3 +92,4 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
