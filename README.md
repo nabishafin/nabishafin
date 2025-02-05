@@ -1,9 +1,9 @@
 <div width="50">
-  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
+  <img src="https://i.ibb.co/com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
   <br />
   <div  align="center">
-    <a href="https://github.com/sp-xd">
-      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+    <a href="https://github.com/your-username">
+      <img src="https://github.com/your-username/your-username/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
     </a>
   </div>
   <br />
@@ -80,7 +80,9 @@
 
 ## 𝗥𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
 
 ---
 
