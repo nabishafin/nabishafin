@@ -33,6 +33,17 @@
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+💻 Frontend Developer | Passionate about Building Interactive UIs
+🚀 Exploring React.js, Vue.js & Tailwind CSS
+⏳ Always experimenting with Web Performance Optimization
+👨‍💻 Former Project Lead Intern at GirlScript Foundation
+🎯 Life Hack: "Design with precision and code with passion!"
+🏆 Conquered Smart India Hackathon 2019 – Software Edition (Grand Finalist)
+⚡ Fun fact: I love attending Meetups for learning & Conferences for Networking
+
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
