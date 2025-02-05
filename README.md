@@ -1,13 +1,11 @@
 <div align="center" width="50">
-
-<div align="center" width="50">
-![banner](https://i.ibb.co.com/TSXT7Fr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
-
-
-<hr></hr>
+  <img src="https://i.ibb.co/TSXT7Fr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="banner" width="50%" />
+  <br />
+  <a href="https://github.com/sp-xd">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+  </a>
+  <br />
+  <hr />
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
