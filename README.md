@@ -42,9 +42,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀:
 - I’m currently exploring **Next.js** for building modern web applications.
-- Working on a **tourism website** using **React.js** and **TailwindCSS** for performance optimization.
+- Working on a **tourism website** using **React.js**, **TailwindCSS**, and adding **MongoDB** with **Express.js** to handle backend functionality.
 - Experimenting with **TypeScript** to add type safety to my projects.
-  
+
 ---
 
 ## 𝗦𝗸𝗶𝗹𝗹𝘀:
@@ -57,6 +57,8 @@
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-%2343853B?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-%23404D59?style=flat-square&logo=express&logoColor=white)
 
 **CSS Frameworks**  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
