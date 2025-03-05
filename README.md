@@ -1,5 +1,5 @@
 <div width="50">
-  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
+  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="100%" />
  <br />
 <div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
@@ -44,6 +44,21 @@
 - I’m currently exploring **Next.js** for building modern web applications.
 - Working on a **tourism website** using **React.js**, **TailwindCSS**, and adding **MongoDB** with **Express.js** to handle backend functionality.
 - Experimenting with **TypeScript** to add type safety to my projects.
+
+---
+
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+Here are some of the projects I've worked on:
+
+- **[Tourism Website](https://github.com/nabishafin/tourism-website)**  
+  A React.js and TailwindCSS project with MongoDB backend for handling tourism-related data.
+
+- **[Portfolio Website](https://github.com/nabishafin/portfolio)**  
+  A personal portfolio website built with React.js and TailwindCSS to showcase my skills and projects.
+
+- **[Task Manager App](https://github.com/nabishafin/task-manager)**  
+  A task management application built with React.js, Node.js, and MongoDB.
 
 ---
 
