@@ -1,95 +1,46 @@
-<div width="50">
-  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" width="" />
- <br />
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" />
+  
+  <h1>Hi, I'm Mahamodon Nabi Shafin</h1>
+  <p><strong>Full Stack Developer (MERN)</strong> | Passionate about building responsive & scalable web applications</p>
+
+  <a href="https://www.linkedin.com/in/nabi-shafin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shafin21215@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://x.com/nabishafin"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 <hr />
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
-
-👨🏻‍💻 **About Me:**
-
-- :computer: Frontend Developer, passionate about creating seamless user experiences  
-- :rocket: Exploring React.js and Tailwind CSS  
-- :hourglass_flowing_sand: Focused on Web Performance Optimization for faster, better apps  
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation  
-- :dart: Life Hack: "Design with precision and code with passion"    
-- :zap: Fun fact: I love attending Meetups for learning & Conferences for Networking
+## 👨🏻‍💻 About Me
+I am a Full-Stack Developer with over a year of professional experience in crafting responsive, user-centric web applications. I specialize in the **MERN stack** (React.js, Next.js, Node.js, Express.js, and MongoDB) and have a strong foundation in REST API development, state management, and modern component-based architecture. I am passionate about writing clean, maintainable code and solving complex technical challenges.
 
 ---
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀:
-- I’m currently exploring **Next.js** for building modern web applications.
-- Working on a **tourism website** using **React.js**, **TailwindCSS**, and adding **MongoDB** with **Express.js** to handle backend functionality.
-- Experimenting with **TypeScript** to add type safety to my projects.
+## 🛠 Tech Stack
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Ant Design, Framer Motion  
+**Backend:** Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication  
+**Tools & Services:** Git, GitHub, Postman, AWS, Vercel, Firebase  
+**State Management:** Redux Toolkit, RTK Query, TanStack Query
 
 ---
 
-## 𝗦𝗸𝗶𝗹𝗹𝘀:
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-%2343853B?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-%23404D59?style=flat-square&logo=express&logoColor=white)
-
-**CSS Frameworks**  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+## 🚀 Professional Experience
+* **Full-Stack Developer | Spark Tech Agency** (March 2025 – Present)
+    * Architected the **Wuffoos** pet care platform using Next.js and integrated complex REST APIs.
+    * Implemented JWT authentication, Redux Toolkit for state management, and real-time Socket.io chat interfaces.
+* **Frontend Developer (Remote) | Legier Beteiligungs** (May 2025 – Feb 2026)
+    * Developed high-performance interfaces for digital newspaper platforms and cryptocurrency portals (e.g., Scandic Coin).
+    * Integrated Web3.js for secure wallet connectivity and optimized SEO performance.
 
 ---
 
-## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗟𝗶𝗻𝗸𝘀:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabi-shafin/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nabishafin)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafin21215@gmail.com?subject=Hello%20Shafin,%20From%20Github)
+## 💡 Key Projects
+* **Nostrix Creative:** A responsive digital agency platform built with React, Tailwind, and Framer Motion.
+* **Service Review System:** A full-stack platform featuring secure CRUD operations, user authentication, and review management.
 
 ---
 
-## 𝗥𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabishafin&show_icons=true&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabishafin&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabishafin&layout=compact&theme=dracula)
-
----
-
-## 𝗖𝗼𝗱𝗲 𝗖𝘆𝗰𝗹𝗲:
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabishafin&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabishafin&theme=dracula" alt="GitHub Streak">
+</div>
