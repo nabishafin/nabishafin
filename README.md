@@ -2,207 +2,91 @@
 
 <img src="https://i.ibb.co.com/B2mp4T7s/image.png" alt="Mahamodon Nabi Shafin" width="100%" />
 
-<br />
-
 <h1>Mahamodon Nabi Shafin</h1>
 
-<p>
-  <strong>Full Stack Developer</strong> · React.js · Next.js · Node.js · MongoDB
-</p>
+<strong>Full Stack Developer</strong> · React.js · Next.js · Node.js · MongoDB
 
 <p>
-  Building responsive, scalable and user-focused web applications.
+Building responsive, scalable and production-ready web applications.
 </p>
-
-<br />
 
 <a href="https://github.com/nabishafin">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/nabi-shafin/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:shafin21215@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a **Full Stack Developer** with 1.5+ years of professional experience building responsive, scalable and user-friendly web applications.
+Full Stack Developer with **1.5+ years of professional experience** specializing in React.js, Next.js, TypeScript, Node.js, Express.js and MongoDB. Experienced in REST APIs, authentication, state management, real-time applications, performance optimization and SEO.
 
-My primary expertise includes **React.js, Next.js, TypeScript, Node.js, Express.js and MongoDB**, with hands-on experience in REST API integration, authentication, state management, real-time applications and modern component-based architecture.
+## Tech Stack
 
-I focus on writing clean and maintainable code, solving technical problems, improving application performance and delivering production-ready applications.
+**Frontend:** React.js · Next.js · TypeScript · JavaScript · Tailwind CSS
+**Backend:** Node.js · Express.js · MongoDB · REST API · JWT
+**State:** Redux Toolkit · RTK Query · TanStack Query · Axios
+**UI:** shadcn/ui · Ant Design · DaisyUI · Framer Motion
+**Other:** Socket.io · Web3.js · Zod · SSR · SSG · SEO · Core Web Vitals
+**Tools:** Git · GitHub · Postman · Swagger · AWS · Vercel · Firebase
 
----
+## Experience
 
-## Technical Skills
+**Full Stack Developer — Spark Tech Agency** · `Mar 2025 – Present`
+Wuffoos development · Next.js · React · Node.js · Express · MongoDB · RTK Query · JWT · Socket.io · SSR/SSG · SEO.
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+**Frontend Developer — Legier Beteiligungs, Germany** · `May 2025 – Feb 2026`
+Global News · Scandic Coin · SNC-DOMAIN · React · Next.js · TypeScript · Web3.js · Redux Toolkit · SEO · Core Web Vitals.
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- RESTful APIs
-- JWT Authentication
+## Projects
 
-### State Management
-- Redux Toolkit
-- RTK Query
-- TanStack Query
-- Axios
+**Wuffoos** — Full-stack pet-care platform with bookings, pet profiles, services and real-time communication.
+`Next.js` `Node.js` `MongoDB` `Redux Toolkit` `Socket.io`
 
-### UI & Animation
-- shadcn/ui
-- Ant Design
-- DaisyUI
-- Chakra UI
-- Framer Motion
+**Global News** — Multilingual, SEO-focused corporate media platform.
+`Next.js` `TypeScript` `SSR` `SEO`
 
-### Other Technologies
-- Socket.io
-- Web3.js
-- Zod
-- SSR
-- SSG
-- SEO
-- Core Web Vitals
+**Scandic Coin** — Cryptocurrency platform with wallet connectivity.
+`React` `Next.js` `Web3.js` `Redux Toolkit`
 
-### Tools & Services
-- Git
-- GitHub
-- Postman
-- Swagger
-- AWS
-- Vercel
-- Firebase
+**SNC-DOMAIN** — Responsive platform with reusable components and premium UI.
+`React` `Next.js` `TypeScript` `Tailwind`
 
----
+**Nostrix Creative** — Modern digital agency website with animations.
+`React` `Tailwind` `Framer Motion`
 
-## Professional Experience
+**Service Review System** — Full-stack service, authentication and review platform.
+`React` `Node.js` `MongoDB` `JWT`
 
-### Full Stack Developer
-**Spark Tech Agency** | `March 2025 – Present`
-
-- Developed and maintained **Wuffoos**, a full-stack pet-care platform.
-- Built features using Next.js, React.js, Node.js and Express.js.
-- Integrated REST APIs with Redux Toolkit and RTK Query.
-- Implemented JWT authentication and protected routes.
-- Integrated Socket.io for real-time chat.
-- Used SSR and SSG for performance and SEO.
-- Built reusable and scalable components.
-- Collaborated with backend developers and UI/UX designers.
-
-### Frontend Developer — Remote
-**Legier Beteiligungs, Germany** | `May 2025 – February 2026`
-
-- Developed interfaces using React.js, Next.js and TypeScript.
-- Worked on Global News, Scandic Coin and SNC-DOMAIN.
-- Integrated Web3.js for cryptocurrency wallet connectivity.
-- Implemented Redux Toolkit for state management.
-- Built reusable responsive components.
-- Improved SEO and Core Web Vitals.
-- Worked remotely with designers and stakeholders.
-- Followed an Agile development workflow.
-
----
-
-## Featured Projects
-
-### Wuffoos
-A full-stack pet-care platform where users can manage pet profiles, discover services, book appointments and communicate with service providers.
-**Stack:** `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `RTK Query` `JWT` `Socket.io`
-
-### Global News / LEGIER Media Group
-A modern, multilingual and SEO-optimized corporate platform for an international media and technology company.
-**Stack:** `Next.js` `React.js` `TypeScript` `SSR` `API Integration` `SEO`
-
-### Scandic Coin
-A modern cryptocurrency platform interface with secure wallet connectivity and efficient application state management.
-**Stack:** `React.js` `Next.js` `Web3.js` `Redux Toolkit`
-
-### SNC-DOMAIN
-A responsive web platform focused on seamless navigation, reusable components and a premium experience across devices.
-**Stack:** `React.js` `Next.js` `TypeScript` `Tailwind CSS`
-
-### Nostrix Creative
-A responsive digital agency platform focused on modern UI, smooth animations and reusable frontend architecture.
-**Stack:** `React.js` `Tailwind CSS` `Framer Motion`
-
-### Service Review System
-A full-stack platform featuring authentication, CRUD operations, service management and review functionality.
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
----
-
-<h3>WHAT I'VE BEEN UP TO</h3>
+## GitHub Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
-
----
-
-<h3>SNAKE EATING MY COMMITS</h3>
 
 ![snake](https://raw.githubusercontent.com/nabishafin/nabishafin/snake-output/snake.svg)
 
 ## Education
 
-### B.Sc. in Electrical and Electronic Engineering
-**University of Scholars** | 2025
-**CGPA:** 3.25
+**B.Sc. in Computer Science & Engineering** — University of Scholars · `2025` · **CGPA 3.25**
 
-### Languages
-- **Bengali** — Native
-- **English** — Professional Working Proficiency
+**Languages:** Bengali (Native) · English (Professional Working Proficiency)
 
----
+## Currently
 
-## Current Focus
-
-- Building scalable full-stack applications
-- Improving frontend performance
-- Exploring modern React and Next.js patterns
-- Improving backend architecture
-- Designing efficient REST APIs
-- Open-source development
-- Modern UI/UX
-- Core Web Vitals
-- Cloud and deployment technologies
-- Emerging web technologies
-
----
-
-## Availability
-
-Open to **remote opportunities** and **relocation opportunities**.
-
----
+Full-stack development · React/Next.js · Backend Architecture · REST APIs · Performance · SEO · Cloud · Open Source
 
 <div align="center">
 
-### Let's build something meaningful.
+**Open to Remote & Relocation Opportunities**
 
-<br />
-
-<a href="https://github.com/nabishafin">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/nabi-shafin/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:shafin21215@gmail.com">Email</a>
+<a href="https://github.com/nabishafin">GitHub</a> · <a href="https://www.linkedin.com/in/nabi-shafin/">LinkedIn</a> · <a href="mailto:shafin21215@gmail.com">Email</a>
 
 </div>
