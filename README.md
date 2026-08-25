@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/vCjHvWD9/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="banner" />
+  <img src="https://i.ibb.co.com/B2mp4T7s/image.png" alt="banner" />
   
   <h1>Hi, I'm Mahamodon Nabi Shafin</h1>
   <p><strong>Full Stack Developer (MERN)</strong> | Passionate about building responsive & scalable web applications</p>
