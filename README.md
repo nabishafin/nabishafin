@@ -71,8 +71,6 @@ Global News · Scandic Coin · SNC-DOMAIN · React · Next.js · TypeScript · W
 
 <!--END_SECTION:activity-->
 
-![snake](https://raw.githubusercontent.com/nabishafin/nabishafin/snake-output/snake.svg)
-
 ## Education
 
 **B.Sc. in Computer Science & Engineering** — University of Scholars · `2025` · **CGPA 3.25**
