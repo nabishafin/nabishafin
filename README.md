@@ -44,12 +44,7 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 
 ## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Frontend
-
 - React.js
 - Next.js
 - TypeScript
@@ -58,35 +53,27 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 - CSS3
 - Tailwind CSS
 
-### State Management
-
-- Redux Toolkit
-- RTK Query
-- TanStack Query
-- Axios
-
-### UI & Animation
-
-- shadcn/ui
-- Ant Design
-- DaisyUI
-- Chakra UI
-- Framer Motion
-
-</td>
-
-<td width="50%" valign="top">
-
 ### Backend
-
 - Node.js
 - Express.js
 - MongoDB
 - RESTful APIs
 - JWT Authentication
 
-### Other Technologies
+### State Management
+- Redux Toolkit
+- RTK Query
+- TanStack Query
+- Axios
 
+### UI & Animation
+- shadcn/ui
+- Ant Design
+- DaisyUI
+- Chakra UI
+- Framer Motion
+
+### Other Technologies
 - Socket.io
 - Web3.js
 - Zod
@@ -96,7 +83,6 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 - Core Web Vitals
 
 ### Tools & Services
-
 - Git
 - GitHub
 - Postman
@@ -105,23 +91,12 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 - Vercel
 - Firebase
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Full Stack Developer
-
-**Spark Tech Agency**
-
-`March 2025 – Present`
+**Spark Tech Agency** | `March 2025 – Present`
 
 - Developed and maintained **Wuffoos**, a full-stack pet-care platform.
 - Built features using Next.js, React.js, Node.js and Express.js.
@@ -132,15 +107,8 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 - Built reusable and scalable components.
 - Collaborated with backend developers and UI/UX designers.
 
-</td>
-
-<td width="50%" valign="top">
-
 ### Frontend Developer — Remote
-
-**Legier Beteiligungs, Germany**
-
-`May 2025 – February 2026`
+**Legier Beteiligungs, Germany** | `May 2025 – February 2026`
 
 - Developed interfaces using React.js, Next.js and TypeScript.
 - Worked on Global News, Scandic Coin and SNC-DOMAIN.
@@ -151,247 +119,98 @@ I focus on writing clean and maintainable code, solving technical problems, impr
 - Worked remotely with designers and stakeholders.
 - Followed an Agile development workflow.
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### Wuffoos
-
 A full-stack pet-care platform where users can manage pet profiles, discover services, book appointments and communicate with service providers.
-
-**Stack**
-
-`Next.js` `React.js` `Node.js`  
-`Express.js` `MongoDB` `Redux Toolkit`  
-`RTK Query` `JWT` `Socket.io`
-
-</td>
-
-<td width="50%" valign="top">
+**Stack:** `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `RTK Query` `JWT` `Socket.io`
 
 ### Global News / LEGIER Media Group
-
 A modern, multilingual and SEO-optimized corporate platform for an international media and technology company.
-
-**Stack**
-
-`Next.js` `React.js` `TypeScript`  
-`SSR` `API Integration` `SEO`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+**Stack:** `Next.js` `React.js` `TypeScript` `SSR` `API Integration` `SEO`
 
 ### Scandic Coin
-
 A modern cryptocurrency platform interface with secure wallet connectivity and efficient application state management.
-
-**Stack**
-
-`React.js` `Next.js` `Web3.js`  
-`Redux Toolkit`
-
-</td>
-
-<td width="50%" valign="top">
+**Stack:** `React.js` `Next.js` `Web3.js` `Redux Toolkit`
 
 ### SNC-DOMAIN
-
 A responsive web platform focused on seamless navigation, reusable components and a premium experience across devices.
-
-**Stack**
-
-`React.js` `Next.js` `TypeScript`  
-`Tailwind CSS`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+**Stack:** `React.js` `Next.js` `TypeScript` `Tailwind CSS`
 
 ### Nostrix Creative
-
 A responsive digital agency platform focused on modern UI, smooth animations and reusable frontend architecture.
-
-**Stack**
-
-`React.js` `Tailwind CSS` `Framer Motion`
-
-</td>
-
-<td width="50%" valign="top">
+**Stack:** `React.js` `Tailwind CSS` `Framer Motion`
 
 ### Service Review System
-
 A full-stack platform featuring authentication, CRUD operations, service management and review functionality.
-
-**Stack**
-
-`React.js` `Node.js` `Express.js`  
-`MongoDB` `JWT`
-
-</td>
-
-</tr>
-</table>
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img src="./github-stats.svg" alt="GitHub Statistics" width="100%" />
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="./github-streak.svg" alt="GitHub Streak" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<img src="./github-activity.svg" alt="GitHub Contribution Activity" width="100%" />
-
+  <img src="./github-stats.svg" alt="GitHub Statistics" width="100%" />
+  
+  <br /><br />
+  
+  <img src="./github-streak.svg" alt="GitHub Streak" width="100%" />
+  
+  <br /><br />
+  
+  <img src="./github-activity.svg" alt="GitHub Contribution Activity" width="100%" />
 </div>
 
 ---
 
 ## GitHub Overview
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<strong>Repositories</strong>
-
-<br />
-
-<img src="./github-repos.svg" width="100%" />
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Total Commits</strong>
-
-<br />
-
-<img src="./github-commits.svg" width="100%" />
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Contributions</strong>
-
-<br />
-
-<img src="./github-contributions.svg" width="100%" />
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Today's Commits</strong>
-
-<br />
-
-<img src="./github-today.svg" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
+<div align="center">
+  <h3>Repositories</h3>
+  <img src="./github-repos.svg" alt="Repositories" width="100%" />
+  
+  <br /><br />
+  
+  <h3>Total Commits</h3>
+  <img src="./github-commits.svg" alt="Total Commits" width="100%" />
+  
+  <br /><br />
+  
+  <h3>Contributions</h3>
+  <img src="./github-contributions.svg" alt="Contributions" width="100%" />
+  
+  <br /><br />
+  
+  <h3>Today's Commits</h3>
+  <img src="./github-today.svg" alt="Today's Commits" width="100%" />
+</div>
 
 ## Education
 
-<table>
-<tr>
-
-<td width="50%">
-
 ### B.Sc. in Electrical and Electronic Engineering
-
-**University of Scholars**
-
-2025
-
+**University of Scholars** | 2025
 **CGPA:** 3.25
 
-</td>
-
-<td width="50%">
-
 ### Languages
-
-**Bengali** — Native
-
-**English** — Professional Working Proficiency
-
-</td>
-
-</tr>
-</table>
+- **Bengali** — Native
+- **English** — Professional Working Proficiency
 
 ---
 
 ## Current Focus
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 - Building scalable full-stack applications
 - Improving frontend performance
 - Exploring modern React and Next.js patterns
 - Improving backend architecture
 - Designing efficient REST APIs
-
-</td>
-
-<td width="50%" valign="top">
-
 - Open-source development
 - Modern UI/UX
 - Core Web Vitals
 - Cloud and deployment technologies
 - Emerging web technologies
-
-</td>
-
-</tr>
-</table>
 
 ---
 
