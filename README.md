@@ -149,43 +149,16 @@ A full-stack platform featuring authentication, CRUD operations, service managem
 
 ---
 
-## GitHub Statistics
+<h3>WHAT I'VE BEEN UP TO</h3>
 
-<div align="center">
-  <img src="./github-stats.svg" alt="GitHub Statistics" width="100%" />
-  
-  <br /><br />
-  
-  <img src="./github-streak.svg" alt="GitHub Streak" width="100%" />
-  
-  <br /><br />
-  
-  <img src="./github-activity.svg" alt="GitHub Contribution Activity" width="100%" />
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## GitHub Overview
+<h3>SNAKE EATING MY COMMITS</h3>
 
-<div align="center">
-  <h3>Repositories</h3>
-  <img src="./github-repos.svg" alt="Repositories" width="100%" />
-  
-  <br /><br />
-  
-  <h3>Total Commits</h3>
-  <img src="./github-commits.svg" alt="Total Commits" width="100%" />
-  
-  <br /><br />
-  
-  <h3>Contributions</h3>
-  <img src="./github-contributions.svg" alt="Contributions" width="100%" />
-  
-  <br /><br />
-  
-  <h3>Today's Commits</h3>
-  <img src="./github-today.svg" alt="Today's Commits" width="100%" />
-</div>
+![snake](https://raw.githubusercontent.com/nabishafin/nabishafin/snake-output/snake.svg)
 
 ## Education
 
